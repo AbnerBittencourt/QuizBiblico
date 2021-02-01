@@ -1,5 +1,5 @@
 {
-  "bg": "https://images2.alphacoders.com/111/111980.jpg",
+  "bg": "https://cdn.pixabay.com/photo/2016/02/19/11/53/book-1210029_1280.jpg",
   "title": "Quiz Biblíco",
   "description": "Teste os seus conhecimentos sobre a Biblía em um Quiz!",
   "questions": [
@@ -104,11 +104,11 @@
   ],
   "theme": {
     "colors": {
-      "primary": "#fff9c4",
-      "secondary": "#29b6f6",
-      "mainBg": "#F4CC8E",
-      "contrastText": "#00000",
-      "wrong": "#FF5722",
+      "primary": "#1F182A",
+      "secondary": "#704D4F",
+      "mainBg": "#9F9093",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF2400",
       "success": "#4CAF50"
     },
     "borderRadius": "4px"
