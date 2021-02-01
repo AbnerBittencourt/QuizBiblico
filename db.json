@@ -4,25 +4,39 @@
   "description": "Teste os seus conhecimentos sobre a Biblía em um Quiz!",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://i.pinimg.com/originals/68/eb/dc/68ebdc1651bfcdf2b35cf40a1692aed0.jpg",
+      "title": "Quem escreveu os 10 mandamentos?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
+      "answer": 3,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Abrãao",
+        "Isaque",
+        "Habacuque",
+        "Moisés"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
+      "image": "https://image.shutterstock.com/image-photo/sand-running-through-bulbs-hourglass-600w-766847608.jpg",
+      "title": "Quantos anos Matusálem viveu?",
       "description": "Faz tempo em haha",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "969 anos",
+         "869 anos",
+         "759 anos",
+         "949 anos"
+      ]
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/proxy/M4icyV1H6uSPpkxNPeN_Re95MGXZf0DhL1M_yXqsft6TNPwBKUayK930oPy8U9bIKlVS09fCzUp6sVhKZljGeX2PMaB60ihEVh23jj351J0gSOdHFkDA2mVXDzCHK6AwRvV7nkW1DE-205F5djTbbsAhNjR8Obc5Djk",
+      "title": "Complete a frase: ..., desce depressa, porque hoje me convém pousar em tua casa.",
+      "description": "E aí?",
+      "answer": 2,
+      "alternatives": [
+        "João Batista",
+        "Davi",
+        "Zaqueu",
+        "Samuel"
       ]
     }
   ],
