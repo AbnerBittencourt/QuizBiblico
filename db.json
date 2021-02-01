@@ -40,16 +40,6 @@
       ]
     },
     {
-      "title": "Qual foi o primeiro nome de Paulo?",
-      "description": "Cuidao pra não se confundir",
-      "answer": 2,
-      "alternatives": [
-        "Tarso",
-        "Saul",
-        "Saulo"
-      ]
-    },
-    {
       "image": "https://blog.cancaonova.com/diarioespiritual/files/2013/07/0175-O-complô-contra-Jesus.jpg",
       "title": "E quem entre esses apóstolos cometeu a traição?",
       "description": "E aí?",
@@ -59,17 +49,6 @@
         "Paulo",
         "Pedro",
         "André"
-      ]
-    },
-    {
-      "title": "Qual a referência do versículo: 'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus'?",
-      "description": "Já leu esta passagem?",
-      "answer": 2,
-      "alternatives": [
-        "João 3:16",
-        "João 3:10",
-        "João 1:1",
-        "João 2:2"
       ]
     },
     {
