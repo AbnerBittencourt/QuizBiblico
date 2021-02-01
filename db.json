@@ -4,7 +4,7 @@
   "description": "Teste os seus conhecimentos sobre a Biblía em um Quiz!",
   "questions": [
     {
-      "image": "https://drive.google.com/file/d/11ekMGtCD4yjn3wBBnwa0Dtqs3YTd8sZF/view?usp=sharing",
+      "image": "public/img/img-1",
       "title": "Quem escreveu os 10 mandamentos?",
       "description": "Essa é pra aquecer",
       "answer": 3,
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "image": "https://drive.google.com/file/d/11ekMGtCD4yjn3wBBnwa0Dtqs3YTd8sZF/view?usp=sharing",
+      "image": "public/img/img-2",
       "title": "Quantos anos Matusálem viveu?",
       "description": "Faz tempo em haha",
       "answer": 0,
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "image": "https://drive.google.com/file/d/11ekMGtCD4yjn3wBBnwa0Dtqs3YTd8sZF/view?usp=sharing",
+      "image": "public/img/img-3",
       "title": "Complete a frase: ..., desce depressa, porque hoje me convém pousar em tua casa.",
       "description": "E aí?",
       "answer": 2,
