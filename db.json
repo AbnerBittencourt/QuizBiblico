@@ -4,7 +4,7 @@
   "description": "Teste os seus conhecimentos sobre a Biblía em um Quiz!",
   "questions": [
     {
-      "image": "public/img/img-1",
+      "image": "https://media.giphy.com/media/aAfKYv1ScWDuM/giphy.gif",
       "title": "Quem escreveu os 10 mandamentos?",
       "description": "Essa é pra aquecer",
       "answer": 3,
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "image": "public/img/img-2",
+      "image": "https://media.giphy.com/media/B0rtSZVm9o944AEDA7/giphy.gif",
       "title": "Quantos anos Matusálem viveu?",
       "description": "Faz tempo em haha",
       "answer": 0,
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "image": "public/img/img-3",
+      "image": "https://rudecruz.com/wp-content/uploads/2019/01/zaqueu-o-publicano.jpg",
       "title": "Complete a frase: ..., desce depressa, porque hoje me convém pousar em tua casa.",
       "description": "E aí?",
       "answer": 2,
